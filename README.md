@@ -7,6 +7,10 @@ The Superstore Sales dataset contains transactional data from a retail superstor
 - File Format: CSV
 - Size: 9,426 records
 - Number of Features: 26
+---
+## Note:
+To import dataset, I used data import tools
+---
 ## Features
 The dataset contains the following columns:
 - Row_ID: Unique identifier for each row
@@ -35,3 +39,17 @@ The dataset contains the following columns:
 - Quantity_ordered_new: Number of units sold
 - Sales: Sales amount for the order
 - Return_Status: Status indicating if the order was returned
+
+## Usage / Methology
+The dataset can be used for:
+- Data Verification
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Customer segmentation
+  
+## Result
+- Find out every customer RFM segment
+- Recency, Frequesncy and Monetary value with score
+- After analysis ,can say that Customer's type
+
+
